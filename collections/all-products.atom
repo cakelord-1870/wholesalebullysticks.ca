@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesalebullysticks.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesalebullysticks.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesalebullysticks.ca/collections/all-products.atom"/>
+  <title>Wholesale Bully Sticks</title>
+  <updated>2021-07-06T11:30:05-12:00</updated>
+  <author>
+    <name>Wholesale Bully Sticks</name>
+  </author>
+  <entry>
+    <id>https://wholesalebullysticks.ca/products/6586361315403</id>
+    <published>2021-07-06T11:30:05-12:00</published>
+    <updated>2021-07-06T11:30:05-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesalebullysticks.ca/products/6-inch-standard-bully-stick-50-units"/>
+    <title>6 Inch Standard Bully Stick (50 units)</title>
+    <s:type></s:type>
+    <s:vendor>Wholesale Bully Sticks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/7169/2339/products/BullyBunches06-08-21-11_360x_291603ea-c579-4055-8c36-301cf5f493d7.jpg?v=1625613527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Bully Sticks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            105.00 - 567.00
+            <a href="https://wholesalebullysticks.ca/products/6-inch-standard-bully-stick-50-units">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>- All natural and single ingredient (beef)</p>
+<p>- 18-28 grams ea.</p>
+<p>- Little to no odour</p>
+<p>- Product of Colombia &amp; Mexico</p>
+<p><span>- Free shipping on orders above <em>$500</em></span></p>
+<p><strong><em>*Display Box Sold Separately*</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6586361315403</id>
+      <title>Bully Bunches Cigar Label with UPC Barcode / 1 Pack</title>
+      <s:price currency="CAD">105.00</s:price>
+      <s:sku>6SBS50UBC-1</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6586361315403</id>
+      <title>Bully Bunches Cigar Label with UPC Barcode / 2 Packs</title>
+      <s:price currency="CAD">199.50</s:price>
+      <s:sku>6SBS50UBC-2</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6586361315403</id>
+      <title>Bully Bunches Cigar Label with UPC Barcode / 4 Packs</title>
+      <s:price currency="CAD">390.60</s:price>
+      <s:sku>6SBS50UBC-4</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6586361315403</id>
+      <title>Bully Bunches Cigar Label with UPC Barcode / 6 Packs</title>
+      <s:price currency="CAD">567.00</s:price>
+      <s:sku>6SBS50UBC-6</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6586361315403</id>
+      <title>Unbranded Bulk / 1 Pack</title>
+      <s:price currency="CAD">105.00</s:price>
+      <s:sku>6SBS50UUB-1</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6586361315403</id>
+      <title>Unbranded Bulk / 2 Packs</title>
+      <s:price currency="CAD">199.50</s:price>
+      <s:sku>6SBS50UUB-2</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6586361315403</id>
+      <title>Unbranded Bulk / 4 Packs</title>
+      <s:price currency="CAD">390.60</s:price>
+      <s:sku>6SBS50UUB-4</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6586361315403</id>
+      <title>Unbranded Bulk / 6 Packs</title>
+      <s:price currency="CAD">567.00</s:price>
+      <s:sku>6SBS50UUB-6</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesalebullysticks.ca/products/6586359054411</id>
+    <published>2021-07-06T11:16:38-12:00</published>
+    <updated>2021-07-06T11:16:38-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesalebullysticks.ca/products/12-inch-standard-bully-stick-50-units"/>
+    <title>12 Inch Standard Bully Stick (50 units)</title>
+    <s:type></s:type>
+    <s:vendor>Wholesale Bully Sticks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/7169/2339/products/BullyBunches06-08-21-84_360x_e172fd83-7305-4329-9a4f-0bd0419135d2.jpg?v=1625612562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Bully Sticks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            210.00 - 1134.00
+            <a href="https://wholesalebullysticks.ca/products/12-inch-standard-bully-stick-50-units">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>- All natural and single ingredient (beef)</p>
+<p>- 35-50 grams ea.</p>
+<p>- Little to no odour</p>
+<p>- Product of Colombia &amp; Mexico</p>
+<p><span>- Free shipping on orders above <em>$500</em></span></p>
+<p><strong><em>*Display Box Sold Separately *</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6586359054411</id>
+      <title>Bully Bunches Cigar Label with UPC Barcode / 1 Pack</title>
+      <s:price currency="CAD">210.00</s:price>
+      <s:sku>12SBS50UBC-1</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6586359054411</id>
+      <title>Bully Bunches Cigar Label with UPC Barcode / 2 Packs</title>
+      <s:price currency="CAD">399.00</s:price>
+      <s:sku>12SBS50UBC-2</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6586359054411</id>
+      <title>Bully Bunches Cigar Label with UPC Barcode / 4 Packs</title>
+      <s:price currency="CAD">781.20</s:price>
+      <s:sku>12SBS50UBC-4</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6586359054411</id>
+      <title>Bully Bunches Cigar Label with UPC Barcode / 6 Packs</title>
+      <s:price currency="CAD">1134.00</s:price>
+      <s:sku>12SBS50UBC-6</s:sku>
+      <s:grams>18000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6586359054411</id>
+      <title>Unbranded Bulk / 1 Pack</title>
+      <s:price currency="CAD">210.00</s:price>
+      <s:sku>12SBS50UUB-1</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6586359054411</id>
+      <title>Unbranded Bulk / 2 Packs</title>
+      <s:price currency="CAD">399.00</s:price>
+      <s:sku>12SBS50UUB-2</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6586359054411</id>
+      <title>Unbranded Bulk / 4 Packs</title>
+      <s:price currency="CAD">781.20</s:price>
+      <s:sku>12SBS50UUB-4</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6586359054411</id>
+      <title>Unbranded Bulk / 6 Packs</title>
+      <s:price currency="CAD">1134.00</s:price>
+      <s:sku>12SBS50UUB-6</s:sku>
+      <s:grams>18000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesalebullysticks.ca/products/6582877454411</id>
+    <published>2021-06-26T07:44:01-12:00</published>
+    <updated>2021-06-26T07:44:01-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesalebullysticks.ca/products/bully-bunches-display-box"/>
+    <title>Bully Bunches Display Box</title>
+    <s:type></s:type>
+    <s:vendor>Wholesale Bully Sticks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/7169/2339/products/IMG_1410_jpg__1_-removebg-preview_999d0099-a0ba-413b-9a06-6c698bb3d4ce.png?v=1624736642"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Bully Sticks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fold up cardboard display box. Universal, holds all products.</p>
+<p>Max 1 per product, sticks sold separately. </p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6582877454411</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>BBDB</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesalebullysticks.ca/products/1482150150195</id>
+    <published>2021-06-25T11:27:37-12:00</published>
+    <updated>2021-06-25T11:27:37-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesalebullysticks.ca/products/bully-rings-coming-soon"/>
+    <title>Bully Rings (50 units)</title>
+    <s:type></s:type>
+    <s:vendor>Wholesale Bully Sticks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/7169/2339/products/rings.jpg?v=1540152306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Bully Sticks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            140.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>  - All natural and single ingredient (beef)</p>
+<p>- 35-45 grams ea.</p>
+<p>- Little to no odour</p>
+<p>- Product of Columbia &amp; Mexico</p>
+<p><span>- Free shipping on orders above <em>$500</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/1482150150195</id>
+      <title>Bully Bunches Cigar Label With UPC Barcode</title>
+      <s:price currency="CAD">140.00</s:price>
+      <s:sku>BR50U-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/1482150150195</id>
+      <title>Unbranded Bulk</title>
+      <s:price currency="CAD">140.00</s:price>
+      <s:sku>BR50U-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesalebullysticks.ca/products/664920260659</id>
+    <published>2021-06-21T11:32:07-12:00</published>
+    <updated>2021-06-21T11:32:07-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesalebullysticks.ca/products/large-cow-ear"/>
+    <title>Natural Cow Ear (50 units)</title>
+    <s:type></s:type>
+    <s:vendor>Bully Bunches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/7169/2339/products/Nov1BB-91_2_-2_360x_5a346882-929a-401f-a215-369ae7fd934c.jpg?v=1624169582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bully Bunches<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>- Natural and single ingredient beef</p>
+<p>- Bleach Free</p>
+<p>- Little to no odour</p>
+<p>- Product of Columbia </p>
+<p><span>- Free shipping on orders above <em>$500</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/664920260659</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku>NCE50U</s:sku>
+      <s:grams>3100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesalebullysticks.ca/products/6580730396747</id>
+    <published>2021-06-21T11:32:04-12:00</published>
+    <updated>2021-06-21T11:32:04-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesalebullysticks.ca/products/6-inch-braided-odour-free-bully-stick-25-units"/>
+    <title>6 Inch Braided Odour-Free Bully Stick (25 units)</title>
+    <s:type></s:type>
+    <s:vendor>Wholesale Bully Sticks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/7169/2339/products/BBUNCHES-124_1_360x_39104f68-c70a-4df2-8653-90b69d8c8372.jpg?v=1624168569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Bully Sticks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            95.00 - 513.00
+            <a href="https://wholesalebullysticks.ca/products/6-inch-braided-odour-free-bully-stick-25-units">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>- All natural and single ingredient (beef)</p>
+<p>- 30-40 grams ea.</p>
+<p>- Odour-Free</p>
+<p>- Product of Turkey</p>
+<p><span>- Free shipping on orders above <em>$500</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6580730396747</id>
+      <title>1 Pack</title>
+      <s:price currency="CAD">95.00</s:price>
+      <s:sku>6BOFBS25U-1</s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6580730396747</id>
+      <title>2 Pack</title>
+      <s:price currency="CAD">180.50</s:price>
+      <s:sku>6BOFBS25U-2</s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6580730396747</id>
+      <title>4 Pack</title>
+      <s:price currency="CAD">353.40</s:price>
+      <s:sku>6BOFBS25U-3</s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6580730396747</id>
+      <title>6 Pack</title>
+      <s:price currency="CAD">513.00</s:price>
+      <s:sku>6BOFBS25U-4</s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesalebullysticks.ca/products/582393331763</id>
+    <published>2021-06-21T11:32:02-12:00</published>
+    <updated>2021-06-21T11:32:02-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesalebullysticks.ca/products/6-inch-braided-bully-stick"/>
+    <title>6 Inch Braided Bully Stick (25 units)</title>
+    <s:type></s:type>
+    <s:vendor>Bully Bunches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/7169/2339/products/BullyBunches06-08-21-196_360x_b4e2d29b-0687-4628-8e55-d1b9416e86c1.jpg?v=1624732896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bully Bunches<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>- All natural and single ingredient</p>
+<p>- 30-40 grams ea.</p>
+<p>- Little to no odour</p>
+<p>- Product of Columbia &amp; Mexico</p>
+<p><span>- Free shipping on orders above <em>$500</em></span></p>
+<p><span><em><strong>*Display Box Sold Separately*</strong></em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/582393331763</id>
+      <title>Bully Bunches Cigar Label With UPC Barcode</title>
+      <s:price currency="CAD">85.00</s:price>
+      <s:sku>6BBS25U-1</s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/582393331763</id>
+      <title>Unbranded Bulk</title>
+      <s:price currency="CAD">85.00</s:price>
+      <s:sku>6BBS25U-2</s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesalebullysticks.ca/products/6580730298443</id>
+    <published>2021-06-21T11:31:59-12:00</published>
+    <updated>2021-06-21T11:31:59-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesalebullysticks.ca/products/12-inch-braided-odour-free-bully-stick-25-units"/>
+    <title>12 Inch Braided Odour-Free Bully Stick (25 units)</title>
+    <s:type></s:type>
+    <s:vendor>Wholesale Bully Sticks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/7169/2339/products/BBUNCHES-115_360x_358f28da-b74c-4ff8-8748-900d37c9e599.jpg?v=1624168442"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Bully Sticks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            190.00 - 1026.00
+            <a href="https://wholesalebullysticks.ca/products/12-inch-braided-odour-free-bully-stick-25-units">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>- All natural and single ingredient (beef)</p>
+<p>- 60-80 grams ea.</p>
+<p>- Odour-Free</p>
+<p>- Product of Turkey</p>
+<p><span>- Free shipping on orders above <em>$500</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6580730298443</id>
+      <title>1 Pack</title>
+      <s:price currency="CAD">190.00</s:price>
+      <s:sku>12BOFBS25U-1</s:sku>
+      <s:grams>2400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6580730298443</id>
+      <title>2 Pack</title>
+      <s:price currency="CAD">361.00</s:price>
+      <s:sku>12BOFBS25U-2</s:sku>
+      <s:grams>2400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6580730298443</id>
+      <title>4 Pack</title>
+      <s:price currency="CAD">706.80</s:price>
+      <s:sku>12BOFBS25U-3</s:sku>
+      <s:grams>2400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6580730298443</id>
+      <title>6 Pack</title>
+      <s:price currency="CAD">1026.00</s:price>
+      <s:sku>12BOFBS25U-4</s:sku>
+      <s:grams>2400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesalebullysticks.ca/products/582393430067</id>
+    <published>2021-06-21T11:31:56-12:00</published>
+    <updated>2021-06-21T11:31:56-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesalebullysticks.ca/products/12-inch-braided-bully-stick"/>
+    <title>12 Inch Braided Bully Stick (25 units)</title>
+    <s:type></s:type>
+    <s:vendor>Wholesale Bully Sticks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/7169/2339/products/BullyBunches06-08-21-226_360x_3c32bb58-335a-4dce-a491-1a2a373c96e5.jpg?v=1624732803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Bully Sticks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>- All natural and single ingredient (beef)</p>
+<p>- 60-80 grams ea.</p>
+<p>- Little to no odour</p>
+<p>- Product of Columbia &amp; Mexico</p>
+<p><span>- Free shipping on orders above <em>$500</em></span></p>
+<p><strong><em>*Display Box Sold Separately*</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/582393430067</id>
+      <title>Bully Bunches Cigar Label With UPC Barcode</title>
+      <s:price currency="CAD">170.00</s:price>
+      <s:sku>12BBS25U-1</s:sku>
+      <s:grams>2400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/582393430067</id>
+      <title>Unbranded Bulk</title>
+      <s:price currency="CAD">170.00</s:price>
+      <s:sku>12BBS25U-2</s:sku>
+      <s:grams>2400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesalebullysticks.ca/products/664921374771</id>
+    <published>2021-06-19T18:14:45-12:00</published>
+    <updated>2021-06-19T18:14:45-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesalebullysticks.ca/products/large-pig-ear"/>
+    <title>Natural Pig Ear (50 units)</title>
+    <s:type></s:type>
+    <s:vendor>Wholesale Bully Sticks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/7169/2339/products/pigear_360x_7a66e94d-6ffe-4935-a269-c83435cec672.jpg?v=1624169639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Bully Sticks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            85.00 - 459.00
+            <a href="https://wholesalebullysticks.ca/products/large-pig-ear">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>- All natural and single pig ear</p>
+<p>- Little to no odour</p>
+<p>- Product of Columbia </p>
+<p><span>- Free shipping on orders above <em>$500</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/664921374771</id>
+      <title>1 Pack</title>
+      <s:price currency="CAD">85.00</s:price>
+      <s:sku>NPE50U-1</s:sku>
+      <s:grams>1900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/664921374771</id>
+      <title>2 Packs</title>
+      <s:price currency="CAD">161.50</s:price>
+      <s:sku>NPE50U-2</s:sku>
+      <s:grams>1900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/664921374771</id>
+      <title>4 Packs</title>
+      <s:price currency="CAD">316.20</s:price>
+      <s:sku>NPE50U-4</s:sku>
+      <s:grams>1900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/664921374771</id>
+      <title>6 Packs</title>
+      <s:price currency="CAD">459.00</s:price>
+      <s:sku>NPE50U-6</s:sku>
+      <s:grams>1900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesalebullysticks.ca/products/6580731347019</id>
+    <published>2021-06-19T18:10:22-12:00</published>
+    <updated>2021-06-19T18:10:22-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesalebullysticks.ca/products/6-beef-jerky-strip-100-units"/>
+    <title>6 Beef Jerky Strip (100 units)</title>
+    <s:type></s:type>
+    <s:vendor>Wholesale Bully Sticks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/7169/2339/products/6InchBeefJerkyStrip3-2_360x_5aa21094-ca95-416f-9a82-3cb035f825ff.jpg?v=1624169392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Bully Sticks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.00 - 297.00
+            <a href="https://wholesalebullysticks.ca/products/6-beef-jerky-strip-100-units">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>- All natural &amp; single ingredient beef esophagus </p>
+<p>- Low to no odour</p>
+<p>- Product of Columbia</p>
+<p>- Free shipping on orders above <em>$500</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6580731347019</id>
+      <title>1 Pack</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>6BJSP100U-1</s:sku>
+      <s:grams>1350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6580731347019</id>
+      <title>2 Packs</title>
+      <s:price currency="CAD">104.50</s:price>
+      <s:sku>6BJSP100U-2</s:sku>
+      <s:grams>2700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6580731347019</id>
+      <title>4 Packs</title>
+      <s:price currency="CAD">204.60</s:price>
+      <s:sku>6BJSP100U-3</s:sku>
+      <s:grams>5400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6580731347019</id>
+      <title>6 Packs</title>
+      <s:price currency="CAD">297.00</s:price>
+      <s:sku>6BJSP100U-4</s:sku>
+      <s:grams>8100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesalebullysticks.ca/products/6580731281483</id>
+    <published>2021-06-19T18:09:28-12:00</published>
+    <updated>2021-06-19T18:09:28-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesalebullysticks.ca/products/12-beef-jerky-strip-100-units"/>
+    <title>12 Beef Jerky Strip (100 units)</title>
+    <s:type></s:type>
+    <s:vendor>Wholesale Bully Sticks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/7169/2339/products/12inchbeefjerky4_360x_d428c420-05d6-42b8-9946-e3c08af36c00.jpg?v=1624169351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Bully Sticks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            110.00 - 594.00
+            <a href="https://wholesalebullysticks.ca/products/12-beef-jerky-strip-100-units">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>- All natural and single ingredient beef esophagus </p>
+<p>- Little to no odour</p>
+<p>- Product of Columbia </p>
+<p><span>- Free shipping on orders above <em>$500</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6580731281483</id>
+      <title>1 Pack</title>
+      <s:price currency="CAD">110.00</s:price>
+      <s:sku>12BJSP100U-1</s:sku>
+      <s:grams>2700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6580731281483</id>
+      <title>2 Packs</title>
+      <s:price currency="CAD">209.00</s:price>
+      <s:sku>12BJSP100U-2</s:sku>
+      <s:grams>5400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6580731281483</id>
+      <title>4 Packs</title>
+      <s:price currency="CAD">409.20</s:price>
+      <s:sku>12BJSP100U-4</s:sku>
+      <s:grams>10800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6580731281483</id>
+      <title>6 Packs</title>
+      <s:price currency="CAD">594.00</s:price>
+      <s:sku>12BJSP100U-6</s:sku>
+      <s:grams>16200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesalebullysticks.ca/products/6580729249867</id>
+    <published>2021-06-19T17:42:20-12:00</published>
+    <updated>2021-06-19T17:42:20-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesalebullysticks.ca/products/6-inch-standard-odour-free-bully-stick-50-units"/>
+    <title>6 Inch Standard Odour-Free Bully Stick (50 units)</title>
+    <s:type></s:type>
+    <s:vendor>Wholesale Bully Sticks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/7169/2339/products/BBUNCHES-189_360x_d1ba7fa9-6a38-4f98-9c45-790cd405ed68.jpg?v=1624167655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Bully Sticks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            117.50 - 634.50
+            <a href="https://wholesalebullysticks.ca/products/6-inch-standard-odour-free-bully-stick-50-units">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>- All natural and single ingredient (beef)</p>
+<p>- 18-28 grams ea.</p>
+<p>- Odour-Free</p>
+<p>- Product of Turkey</p>
+<p><span>- Free shipping on orders above <em>$500</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6580729249867</id>
+      <title>1 Pack</title>
+      <s:price currency="CAD">117.50</s:price>
+      <s:sku>6SBS50U-1</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6580729249867</id>
+      <title>2 Packs</title>
+      <s:price currency="CAD">223.25</s:price>
+      <s:sku>6SBS50U-2</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6580729249867</id>
+      <title>4 Packs</title>
+      <s:price currency="CAD">437.10</s:price>
+      <s:sku>6SBS50U-4</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6580729249867</id>
+      <title>6 Packs</title>
+      <s:price currency="CAD">634.50</s:price>
+      <s:sku>6SBS50U-6</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesalebullysticks.ca/products/6580729118795</id>
+    <published>2021-06-19T17:39:57-12:00</published>
+    <updated>2021-06-19T17:39:57-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesalebullysticks.ca/products/12-inch-standard-odour-free-bully-stick-50-units"/>
+    <title>12 Inch Standard Odour-Free Bully Stick (50 units)</title>
+    <s:type></s:type>
+    <s:vendor>Wholesale Bully Sticks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/7169/2339/products/BBUNCHES-183_360x_db5628b2-5024-43c8-9d8c-9c6a947a0736.jpg?v=1624167576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Bully Sticks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            235.00 - 1269.00
+            <a href="https://wholesalebullysticks.ca/products/12-inch-standard-odour-free-bully-stick-50-units">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>- All natural and single ingredient (beef)</p>
+<p>- 35-50 grams ea.</p>
+<p>- Odour-Free</p>
+<p>- Product of Turkey</p>
+<p><span>- Free shipping on orders above <em>$500</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6580729118795</id>
+      <title>1 Pack</title>
+      <s:price currency="CAD">235.00</s:price>
+      <s:sku>12SOFBS50U-1</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6580729118795</id>
+      <title>2 Packs</title>
+      <s:price currency="CAD">446.50</s:price>
+      <s:sku>12SOFBS50U-2</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6580729118795</id>
+      <title>4 Packs</title>
+      <s:price currency="CAD">874.20</s:price>
+      <s:sku>12SOFBS50U-4</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/6580729118795</id>
+      <title>6 Packs</title>
+      <s:price currency="CAD">1269.00</s:price>
+      <s:sku>12SOFBS50U-6</s:sku>
+      <s:grams>18000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesalebullysticks.ca/products/675806707763</id>
+    <published>2021-06-19T16:09:38-12:00</published>
+    <updated>2021-06-19T16:09:38-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesalebullysticks.ca/products/12-inch-gullet-stick"/>
+    <title>12 Beef Jerky Stick (100 units)</title>
+    <s:type></s:type>
+    <s:vendor>Wholesale Bully Sticks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/7169/2339/products/12InchBeefJerkySticks_360x_ff54431d-f4c2-4285-b386-b420e80ae003.jpg?v=1624169167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Bully Sticks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            100.00 - 540.00
+            <a href="https://wholesalebullysticks.ca/products/12-inch-gullet-stick">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>- All natural and single ingredient beef esophagus </p>
+<p>- Little to no odour</p>
+<p>- Product of Columbia </p>
+<p><span>- Free shipping on orders above <em>$500</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/675806707763</id>
+      <title>1 Pack</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku>12BJSK100U-1</s:sku>
+      <s:grams>2600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/675806707763</id>
+      <title>2 Packs</title>
+      <s:price currency="CAD">190.00</s:price>
+      <s:sku>12BJSK100U-2</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/675806707763</id>
+      <title>4 Packs</title>
+      <s:price currency="CAD">372.00</s:price>
+      <s:sku>12BJSK100U-4</s:sku>
+      <s:grams>10400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/675806707763</id>
+      <title>6 Packs</title>
+      <s:price currency="CAD">540.00</s:price>
+      <s:sku>12BJSK100U-6</s:sku>
+      <s:grams>15600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesalebullysticks.ca/products/664924520499</id>
+    <published>2021-06-19T16:09:38-12:00</published>
+    <updated>2021-06-19T16:09:38-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesalebullysticks.ca/products/6-inch-straight-gullet-stick"/>
+    <title>6 Inch Beef Jerky Stick (100 units)</title>
+    <s:type></s:type>
+    <s:vendor>Wholesale Bully Sticks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/7169/2339/products/6inchJerkyStick_360x_4344f8cd-5362-474d-a793-a78f69955702.jpg?v=1624169214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Bully Sticks<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            50.00 - 270.00
+            <a href="https://wholesalebullysticks.ca/products/6-inch-straight-gullet-stick">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>- All natural and single ingredient beef esophagus </p>
+<p>- Little to no odour</p>
+<p>- Product of Columbia </p>
+<p>- Free shipping on orders above <em>$500</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/664924520499</id>
+      <title>1 Pack</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>6BJSK100U-1</s:sku>
+      <s:grams>1350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/664924520499</id>
+      <title>2 Packs</title>
+      <s:price currency="CAD">95.00</s:price>
+      <s:sku>6BJSK100U-2</s:sku>
+      <s:grams>2700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/664924520499</id>
+      <title>4 Packs</title>
+      <s:price currency="CAD">186.00</s:price>
+      <s:sku>6BJSK100U-3</s:sku>
+      <s:grams>5400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesalebullysticks.ca/products/664924520499</id>
+      <title>6 Packs</title>
+      <s:price currency="CAD">270.00</s:price>
+      <s:sku>6BJSK100U-4</s:sku>
+      <s:grams>8100</s:grams>
+    </s:variant>
+  </entry>
+</feed>
